@@ -1,0 +1,38 @@
+{
+  "/deleteDialogue": {
+    "target": "http://localhost:8080",
+    "secure": false,
+    "logLevel": "info",
+    "changeOrigin": true
+  },
+  "/getDialogueList": {
+    "target": "http://localhost:8080",
+    "secure": false,
+    "logLevel": "info",
+    "changeOrigin": true
+  },
+  "/addDialogue": {
+    "target": "http://localhost:8080",
+    "secure": false,
+    "logLevel": "info",
+    "changeOrigin": true
+  },
+  "/user": {
+    "target": "http://localhost:8080",
+    "secure": false,
+    "logLevel": "info",
+    "changeOrigin": true
+  },
+  "/login": {
+    "target": "http://localhost:8080",
+    "secure": false,
+    "logLevel": "info",
+    "changeOrigin": true
+  },
+  "/logout": {
+    "target": "http://localhost:8080",
+    "secure": false,
+    "logLevel": "info",
+    "changeOrigin": true
+  }
+}
