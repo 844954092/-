@@ -24,6 +24,7 @@
     edit proxy.conf.json //代理请求 4200端口转后台8080端口
 
 [postgresql]
+
 create table dialogue
 (
     id           serial not null,
