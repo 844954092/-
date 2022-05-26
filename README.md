@@ -23,8 +23,7 @@
     add src/app/plugins/dialogue //留言列表 不用登录可以访问
     edit proxy.conf.json //代理请求 4200端口转后台8080端口
 
-[mysql]
-```mysql
+[postgresql]
 create table dialogue
 (
     id           serial not null,
